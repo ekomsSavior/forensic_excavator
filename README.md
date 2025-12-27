@@ -86,7 +86,8 @@ sudo apt install -y exiftool poppler-utils binutils coreutils python3-pip
 Install PyMuPDF for content-stream extraction:
 
 ```bash
-pip3 install pymupdf --break-system-packages
+sudo pip3 install spacy pymupdf --break-system-packages
+sudo python3 -m spacy download en_core_web_sm --break-system-packages
 ```
 ---
 
