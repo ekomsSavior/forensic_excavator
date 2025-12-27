@@ -1,29 +1,30 @@
 # Forensic Excavator
 
-**Interactive forensic excavation framework for metadata, document artifacts, and redaction failures.**
+**Interactive forensic excavation framework for metadata, document artifacts, redaction failures, and provenance analysis.**
 
-Forensic Excavator is a Linux-native, analyst-driven triage tool designed to rapidly extract **metadata, hidden text, content streams, strings, and forensic indicators** from documents and datasets at scale.
-
-This tool exists because redactions fail, metadata lies, and documents remember more than their authors intend.
+Forensic Excavator is a Linux-native, analyst-driven forensic triage framework designed to excavate **metadata, hidden text, content streams, embedded artifacts, entities, and timelines** from documents and datasets at scale.
 
 ---
 
-## What This Tool Does
+## What Forensic Excavator Does
 
-Forensic Excavator performs **read-only forensic analysis** across single files or entire datasets, automatically applying the correct tools per file type.
+Forensic Excavator performs **read-only forensic analysis** against individual files or entire datasets.
+It automatically applies the appropriate forensic tooling based on file type and surfaces findings **both in the terminal and as preserved artifacts on disk**.
 
 It is built to expose:
 
 * Hidden and residual metadata
-* Improper PDF redactions
-* Content stream text that visual redactions fail to remove
-* Embedded objects and artifacts
+* Improper and incomplete PDF redactions
+* Content-stream text surviving visual redaction
+* Embedded objects and binary artifacts
+* Named entities (people, organizations, locations, dates)
 * Timeline and provenance indicators
 * Raw strings leaked in binary structures
-* Chain-of-custody hashes for every file analyzed
+* Sanitization and structural failures in PDFs
+* Cryptographic hashes for chain of custody
 
-This is **triage**, not guessing.
-If the data exists, this framework will surface it.
+This is forensic triage, not guesswork.
+If the data exists, this framework is designed to surface it.
 
 ---
 
@@ -32,58 +33,75 @@ If the data exists, this framework will surface it.
 ### Universal (All File Types)
 
 * File type identification
-* SHA-256 hashing (chain of custody)
+* SHA-256 hashing for chain of custody
 * Deep metadata extraction via ExifTool
-* Raw string extraction from binaries
+* Raw string extraction from binary data
+* Filesystem timestamp capture for timeline reconstruction
+* Terminal output of key forensic findings
+
+---
 
 ### PDF-Specific Forensics
 
-* PDF structure analysis (`pdfinfo`)
+* Structural analysis (`pdfinfo`)
 * Layout-preserving text extraction (`pdftotext`)
 * Content-stream text recovery using PyMuPDF
-* Recovery of improperly redacted text objects
-* Separation of visible text vs underlying text
+* Detection of improperly redacted text objects
+* Automatic bad-redaction flagging
+* PDF sanitization and structural validation via `qpdf`
+* Separation of visible text vs underlying content
+* Entity extraction from recovered and visible text
+
+---
+
+### Image & Binary Analysis
+
+* Embedded payload and artifact discovery using `binwalk`
+* Identification of hidden or appended data in image files
+
+---
+
+### Entity Extraction
+
+* Automated extraction of:
+
+  * Persons
+  * Organizations
+  * Locations
+  * Dates
+* Uses spaCy with a locally installed language model
+
+---
+
+### Timeline Reconstruction
+
+* Filesystem creation and modification timestamps
+* Metadata-derived document timestamps
+* Per-file timeline artifacts suitable for correlation and reporting
+
+---
 
 ### Dataset Support
 
 * Recursive directory analysis
-* Automatic handling of mixed file types
-* Clean output separation by analysis category
-
----
-
-## Toolchain Used
-
-This framework deliberately relies on battle-tested open-source forensic tools:
-
-* ExifTool
-* poppler-utils (pdfinfo, pdftotext)
-* strings (binutils)
-* file
-* PyMuPDF (fitz)
-* Python 3 standard libraries
-
-Nothing proprietary. Nothing cloud-based. Nothing that phones home.
-
+* Mixed file-type handling
+* Clean separation of forensic artifacts by category
+* Scales from single documents to mounted evidence volumes
 ---
 
 ## Installation
 
-
 ### 1. System Dependencies
-
-Update your system and install required forensic tools:
 
 ```bash
 sudo apt update
-sudo apt install -y exiftool poppler-utils binutils coreutils python3-pip
+sudo apt install -y exiftool poppler-utils binutils coreutils binwalk qpdf python3-pip
 ```
-
 ---
 
-### 2. Python Dependency
+### 2. Python Dependencies (Required)
 
-Install PyMuPDF for content-stream extraction:
+Forensic Excavator **requires spaCy and its language model**.
 
 ```bash
 sudo pip3 install spacy pymupdf --break-system-packages
@@ -102,8 +120,6 @@ cd forensic_excavator
 
 ### 4. Permissions
 
-Make the main script executable:
-
 ```bash
 chmod +x excavator.py
 ```
@@ -112,10 +128,13 @@ chmod +x excavator.py
 
 ## Usage
 
-This framework is **fully interactive**.
-No arguments. No flags. No shortcuts.
+Forensic Excavator is fully interactive.
 
-Run it:
+No arguments.
+No flags.
+No shortcuts.
+
+Run:
 
 ```bash
 python3 excavator.py
@@ -135,74 +154,101 @@ Examples:
 /mnt/evidence_drive/
 ```
 
-The tool will recursively analyze everything under the provided path.
+All files under the specified path will be analyzed recursively.
 
 ---
 
+
 ## How to Use This to Maximum Effect
 
-### PDF Redaction Failure Analysis
+### PDF Redaction Failure Detection
 
 Compare:
 
-* `pdf/file.pdf.text.txt`
-* `pdf/unredacted/file.unredacted.txt`
+* `output/pdf/<file>.text.txt`
+* `output/pdf/unredacted/<file>.unredacted.txt`
 
-If unredacted output contains data not visible in the document, the redaction failed.
+If recovered text contains information not visible in the rendered document, the redaction failed.
 
-### Metadata Provenance
+The framework will automatically flag suspected redaction failures during analysis.
+
+---
+
+### Entity Intelligence
+
+Review:
+
+```bash
+output/entities/<file>.entities.txt
+```
+
+Use this to:
+
+* Identify individuals, organizations, and locations
+* Correlate entities across multiple documents
+* Build investigative leads rapidly
+
+---
+
+### Metadata & Provenance Analysis
 
 Inspect:
 
-* `exif/*.exif.txt`
+```bash
+output/exif/*.exif.txt
+```
+
+Focus on:
+
+* Creator and Producer inconsistencies
+* Editing tools and workflows
+* Timestamp conflicts
+* XMP and document history remnants
+
+---
+
+### Embedded & Binary Artifact Discovery
+
+Review:
+
+```bash
+output/strings/
+output/binwalk/
+```
 
 Look for:
 
-* Creator / Producer mismatches
-* Editing tools
-* Timestamps that don’t align with claims
-* Document history artifacts
-* XMP remnants
+* Embedded file signatures
+* Residual filenames and paths
+* URLs, identifiers, and object references
 
-### Binary Leakage
-
-Inspect:
-
-* `strings/*.strings.txt`
-
-Look for:
-
-* Names
-* Filenames
-* Paths
-* URLs
-* Internal object references
+---
 
 ### Chain of Custody
 
 Use:
 
-* `hashes/*.sha256`
+```bash
+output/hashes/*.sha256
+```
 
 Hashes allow you to:
 
-* Prove files were not altered
+* Verify integrity
 * Reproduce findings
-* Defend analysis integrity
+* Defend analysis in adversarial settings
 
 ---
 
 ## Disclaimer
 
-This tool is provided **as-is** for lawful forensic analysis, research, investigative journalism, and security testing.
+This tool is provided **as-is** for lawful forensic analysis, investigative research, journalism, and security testing.
 
 You are solely responsible for:
 
-* How you use it
-* What data you analyze
-* Whether you have authorization
+* Authorization to analyze the data
+* Legal and ethical use
+* Interpretation of findings
 
-Use it ethically.
-Use it legally.
-Misuse is on you, not the author.
+The author assumes no liability for misuse.
 
