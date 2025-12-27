@@ -1,0 +1,14 @@
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           56
+Encrypted:       no
+Page size:       612 x 810 pts
+Page rot:        0
+File size:       2486858 bytes
+Optimized:       no
+PDF version:     1.5

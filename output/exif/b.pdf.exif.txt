@@ -1,0 +1,3193 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.36
+---- System ----
+File Name                       : b.pdf
+Directory                       : /home/ek0ms/pdf_unredact
+File Size                       : 159 MB
+File Modification Date/Time     : 2025:12:27 10:46:50-05:00
+File Access Date/Time           : 2025:12:27 10:55:19-05:00
+File Inode Change Date/Time     : 2025:12:27 10:55:19-05:00
+File Permissions                : -rw-rw-r--
+---- File ----
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2620
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2620
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2620
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2620
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2600
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2600
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2608
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2600
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2604
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2616
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 2040
+Image Height                    : 2612
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+File Type                       : (unsupported)
+---- PDF ----
+PDF Version                     : 1.4
+Linearized                      : Yes
+Has XFA                         : No
+Language                        : x-default
+Page Count                      : 225
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 104841 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 345015 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 240895 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 170945 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 139940 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 174061 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 669236 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 472971 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 239520 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 257921 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 261088 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 172220 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 241089 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 248042 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 556240 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 215802 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 268972 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 338169 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 162947 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 116154 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 121659 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 226404 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 229243 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 128026 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 388730 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2620
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 821436 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 108725 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2620
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 484853 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2620
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 228877 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199891 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 180897 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 339935 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 377207 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 274711 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 229601 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 377718 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 391693 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 195311 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 629300 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 196379 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 329801 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 398222 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 329384 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 186729 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 357500 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 507529 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 220116 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199029 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 150501 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 204325 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 213099 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 197255 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 219852 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2600
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 188225 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 204579 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199398 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2620
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201507 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 197567 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 211648 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 202961 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 200963 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 192773 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 191789 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199197 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 198196 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 219781 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 198656 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 196512 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 185471 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 203157 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 207042 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 200850 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 193394 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 195590 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201214 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 195318 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 203447 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 206064 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 193431 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 198431 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 212840 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 220238 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 218101 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 212647 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 204102 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199025 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 200924 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 207270 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 190354 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199305 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 177380 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 207551 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 218215 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 207741 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 194116 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 196760 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 193971 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 183735 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 190324 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2600
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 194269 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2600
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 199388 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 203840 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 197010 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 194090 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201937 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 198637 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 208867 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201260 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 204191 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 196798 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201439 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 202142 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 194966 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 193155 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 202021 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 216666 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 181922 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 183025 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 203178 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 190482 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 192200 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 195092 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 196521 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 201151 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 211690 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 200578 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 203534 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 205750 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 197273 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 214599 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 192671 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2600
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2600
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 202388 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 216875 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 208899 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 214487 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 206709 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 198501 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 211669 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 206878 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 209777 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 184340 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 169669 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB, DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 239184 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2608
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 384054 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 387260 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 365664 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 362280 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 359388 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 364804 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 368314 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 370548 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 382608 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 392675 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 393770 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 389061 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB, DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 389986 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 366660 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 357447 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 365258 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 243240 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2616
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 101016 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : DCTDecode
+Embedded Image Height           : 2612
+Embedded Image Width            : 2040
+Embedded Image                  : (Binary data 619979 bytes, use -b option to extract)
+Embedded Image Color Space      : DeviceRGB
+Embedded Image Filter           : FlateDecode
+Embedded Image Height           : 2604
+Embedded Image Width            : 2040
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+---- Composite ----
+Image Size                      : 2040x2608
+Megapixels                      : 5.3

@@ -1,0 +1,15 @@
+Syntax Error: Can't get Fields array
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            AcroForm
+JavaScript:      no
+Pages:           225
+Encrypted:       no
+Page size:       612 x 782 pts
+Page rot:        0
+File size:       159120097 bytes
+Optimized:       yes
+PDF version:     1.4

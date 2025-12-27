@@ -1,0 +1,244 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.36
+---- System ----
+File Name                       : EFTA00008529.pdf
+Directory                       : /home/ek0ms/pdf_unredact
+File Size                       : 2.5 MB
+File Modification Date/Time     : 2025:12:24 18:24:56-05:00
+File Access Date/Time           : 2025:12:27 10:43:11-05:00
+File Inode Change Date/Time     : 2025:12:24 18:24:56-05:00
+File Permissions                : -rw-rw-r--
+---- File ----
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+File Type                       : (unsupported)
+---- PDF ----
+PDF Version                     : 1.5
+Linearized                      : No
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Color Space      : DeviceGray
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Color Space      : Indexed, DeviceRGB, 255, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray, DeviceGray
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Embedded Image Filter           : FlateDecode
+Embedded Image Width            : 816
+Embedded Image Height           : 1056
+Page Count                      : 56
